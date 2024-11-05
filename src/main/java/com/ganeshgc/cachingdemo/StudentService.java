@@ -40,5 +40,8 @@ public class StudentService {
     }
 
     //just comment
+    public String hello(){
+        return "hello";
+    }
 
 }
