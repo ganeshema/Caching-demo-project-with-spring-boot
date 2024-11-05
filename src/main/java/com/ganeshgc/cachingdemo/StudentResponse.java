@@ -10,7 +10,7 @@ import lombok.ToString;
 @NoArgsConstructor
 @ToString
 public class StudentResponse {
-    private int id;
+    private Integer id;
     private String name;
     private int age;
 }
